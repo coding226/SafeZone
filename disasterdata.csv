@@ -1,0 +1,6 @@
+state,Tornado,Hurricane,Flood,Wildfire ,Power Outage,Covid 7 day ,Covid 1 mth,Covid 2 mth
+TX ,0,1,1,0,0,0.00%,0.00%,0.00%
+CA,0,0,0,1,1,0.00%,0.00%,0.00%
+LA,0,1,1,0,1,0.00%,0.00%,0.00%
+NY,0,0,0,0,1,0.00%,0.00%,0.00%
+KA,1,0,0,0,0,0.00%,0.00%,0.00%
